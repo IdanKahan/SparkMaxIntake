@@ -1,2 +1,2 @@
 # SparkMaxIntake
-A  robot intake using SparkMax engine controller implemented in wpilib Java (FRC)
+A  robot intake using SparkMax motor controller implemented in wpilib Java (FRC)
